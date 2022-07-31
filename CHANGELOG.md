@@ -2,7 +2,7 @@
 
 ## Current Master
 
-- Nothing yet!
+- Bump Nimble version to 10.0.0
 
 ## 5.1.2
 
@@ -24,7 +24,7 @@
 
 ## 4.7.2
 
-- More weak linking fixus. A Carthage/SPM-only release. 
+- More weak linking fixus. A Carthage/SPM-only release.
 
 ## 4.7.1
 
